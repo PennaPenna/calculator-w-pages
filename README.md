@@ -1,1 +1,1 @@
-# ohj2harjtyo
+# Projektikansio ilman node_modules -kansiota!!
